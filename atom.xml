@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>码农的小笔记</title>
   
-  <subtitle>subtitle</subtitle>
+  <subtitle>码农的小笔记</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://githubgang.github.io/wg.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://githubgang.github.io/wg.github.io/</id>
   
   <author>
-    <name>wg</name>
+    <name>刚gg</name>
     
   </author>
   
