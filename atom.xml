@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://githubgang.github.io/wg.github.io/"/>
-  <updated>2019-01-29T08:02:15.593Z</updated>
+  <updated>2019-01-31T03:36:37.317Z</updated>
   <id>https://githubgang.github.io/wg.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://githubgang.github.io/wg.github.io/2019/01/29/hello-world/"/>
     <id>https://githubgang.github.io/wg.github.io/2019/01/29/hello-world/</id>
     <published>2019-01-29T08:02:15.593Z</published>
-    <updated>2019-01-29T08:02:15.593Z</updated>
+    <updated>2019-01-31T03:36:37.317Z</updated>
     
     <summary type="html">
     
@@ -35,6 +35,12 @@
     
     </summary>
     
+      <category term="hexo" scheme="https://githubgang.github.io/wg.github.io/categories/hexo/"/>
+    
+    
+      <category term="hexo" scheme="https://githubgang.github.io/wg.github.io/tags/hexo/"/>
+    
+      <category term="hello world" scheme="https://githubgang.github.io/wg.github.io/tags/hello-world/"/>
     
   </entry>
   
